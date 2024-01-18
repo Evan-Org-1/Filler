@@ -1,0 +1,47 @@
+| Name                         | Value     | Level of concern               |
+| ---------------------------- | --------- | ------------------------------ |
+| Overall repository size      |           |                                |
+| * Commits                    |           |                                |
+|   * Count                    |    46     |                                |
+|   * Total size               |  10.5 KiB |                                |
+| * Trees                      |           |                                |
+|   * Count                    |    91     |                                |
+|   * Total size               |  40.2 KiB |                                |
+|   * Total tree entries       |  1.13 k   |                                |
+| * Blobs                      |           |                                |
+|   * Count                    |     2     |                                |
+|   * Total size               |  3.68 KiB |                                |
+| * Annotated tags             |           |                                |
+|   * Count                    |     0     |                                |
+| * References                 |           |                                |
+|   * Count                    |     3     |                                |
+|     * Branches               |     1     |                                |
+|     * Remote-tracking refs   |     2     |                                |
+|                              |           |                                |
+| Biggest objects              |           |                                |
+| * Commits                    |           |                                |
+|   * Maximum size         [1] |   644 B   |                                |
+|   * Maximum parents      [2] |     1     |                                |
+| * Trees                      |           |                                |
+|   * Maximum entries      [3] |    45     |                                |
+| * Blobs                      |           |                                |
+|   * Maximum size         [4] |  3.67 KiB |                                |
+|                              |           |                                |
+| History structure            |           |                                |
+| * Maximum history depth      |    46     |                                |
+| * Maximum tag depth          |     0     |                                |
+|                              |           |                                |
+| Biggest checkouts            |           |                                |
+| * Number of directories  [5] |     2     |                                |
+| * Maximum path depth     [5] |     2     |                                |
+| * Maximum path length    [5] |    15 B   |                                |
+| * Number of files        [5] |    46     |                                |
+| * Total size of files    [5] |   165 KiB |                                |
+| * Number of symlinks         |     0     |                                |
+| * Number of submodules       |     0     |                                |
+
+[1]  6277bffea89c3ab32a7844ce80e4e7db57de3b40
+[2]  28bdfb297a8903a833aabe961dbb72ea3baac333 (refs/heads/main)
+[3]  03be277e559597ad02c9166721eefad4eda08934 (refs/heads/main:files)
+[4]  7756f455e0b0286b59fbca1e31d5d0b3bbadde91 (refs/heads/main:files/10244.txt)
+[5]  4f5f044cd1775901dba8f11cd7ff2232ddea9332 (refs/heads/main^{tree})
